@@ -11,7 +11,7 @@ This is an Angular2 single-page application to demonstrate how to use <a href="h
    - Type: Web Application and/or Web API
    - Sign-on URL: http://localhost:3002/
    - App ID URL: http://myapp/localhost-3002
-4. When creating your app successfully, go to the 'Configure' page of your app, make sure 'User assignement required to access app' is 'NO'.
+4. When creating your app successfully, go to the 'Configure' page of your app, make sure 'User assignment required to access app' is 'NO'.
 5. Copy 'Client ID' (a GUID) on the 'Configure' page and remember it.
 6. Clone this repository to your local machine.
 7. Go to the 'src/app/services' directory and rename 'secret.service.ts.template' to 'secret.service.ts'.
